@@ -1,2 +1,2 @@
-Django~=2.2.4
+Django~=3.2.4
 pytest-django~=4.4.0
